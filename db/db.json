@@ -16,6 +16,10 @@
       {
         "id": 4,
         "tipo": "Integral"
+      },
+      {
+        "id": 4,
+        "tipo": "Mexicano"
       }
     ],
     "carnes": [
@@ -30,6 +34,10 @@
       {
         "id": 3,
         "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
       }
     ],
     "opcionais": [
