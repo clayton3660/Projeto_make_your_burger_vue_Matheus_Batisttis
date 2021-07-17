@@ -70,7 +70,7 @@
   "status": [
     {
       "id": 1,
-      "tipo": "Solicitando"
+      "tipo": "Solicitado"
     },
     {
       "id": 2,
@@ -83,26 +83,18 @@
   ],
   "bugers": [
     {
-      "nome": "Clayton Paiva da Silva ",
+      "nome": "Clayton ",
       "carne": "Maminha",
       "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
-      ],
+      "opcionais": ["Bacon", "Salame", "Cebola roxa"],
       "status": "Solicitado",
       "id": 1
     },
     {
-      "nome": "antonio",
+      "nome": "Antonio",
       "carne": "Alcatra",
       "pao": "Italiano Branco",
-      "opcionais": [
-        "Salame",
-        "Pepino",
-        "Tomate"
-      ],
+      "opcionais": ["Salame", "Pepino", "Tomate"],
       "status": "Solicitado",
       "id": 2
     },
@@ -110,10 +102,7 @@
       "nome": "Maria",
       "carne": "Alcatra",
       "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar",
-        "Tomate"
-      ],
+      "opcionais": ["Cheddar", "Tomate"],
       "status": "Solicitado",
       "id": 3
     },
@@ -121,9 +110,7 @@
       "nome": "Joaquina",
       "carne": "Veggie burger",
       "pao": "Integral",
-      "opcionais": [
-        "Tomate"
-      ],
+      "opcionais": ["Tomate"],
       "status": "Solicitado",
       "id": 4
     },
@@ -131,11 +118,7 @@
       "nome": "Paulo Matias",
       "carne": "Alcatra",
       "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Cheddar",
-        "Tomate",
-        "Pepino"
-      ],
+      "opcionais": ["Cheddar", "Tomate", "Pepino"],
       "status": "Solicitado",
       "id": 5
     }
