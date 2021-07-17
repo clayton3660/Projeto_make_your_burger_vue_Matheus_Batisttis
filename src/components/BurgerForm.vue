@@ -91,7 +91,7 @@ export default {
       };
       const dataJson = JSON.stringify(data);
 
-      const req = await fetch("http://localhost:3000/bugers", {
+      const req = await fetch("http://localhost:3000/burgers", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: dataJson,
