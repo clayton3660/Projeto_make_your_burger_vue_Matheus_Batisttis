@@ -91,7 +91,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
     },
     {
@@ -113,7 +113,7 @@
       "opcionais": [
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 4
     },
     {
@@ -127,6 +127,17 @@
       ],
       "status": "Solicitado",
       "id": 5
+    },
+    {
+      "nome": "Jurandir",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Pepino"
+      ],
+      "status": "Em produção",
+      "id": 6
     }
   ]
 }
