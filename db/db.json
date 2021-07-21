@@ -91,7 +91,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Em produção",
+      "status": "Solicitado",
       "id": 1
     },
     {
@@ -103,7 +103,7 @@
         "Pepino",
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 2
     },
     {
@@ -113,20 +113,8 @@
       "opcionais": [
         "Tomate"
       ],
-      "status": "Finalizado",
-      "id": 4
-    },
-    {
-      "nome": "Paulo Matias",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Cheddar",
-        "Tomate",
-        "Pepino"
-      ],
       "status": "Solicitado",
-      "id": 5
+      "id": 4
     },
     {
       "nome": "Jurandir",
